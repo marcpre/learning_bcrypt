@@ -1,0 +1,22 @@
+{
+  "name": "learning_bcrypt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "t01-bcrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcpre/learning_bcrypt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcpre/learning_bcrypt/issues"
+  },
+  "homepage": "https://github.com/marcpre/learning_bcrypt#readme",
+  "dependencies": {
+    "bcrypt": "^1.0.3"
+  }
+}
